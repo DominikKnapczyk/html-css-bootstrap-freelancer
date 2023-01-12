@@ -1,4 +1,4 @@
-/* GENERA: */
+/* GENERAL GENERAL GENERAL GENERAL GENERAL */
 
 body {
   font-family: 'Roboto', sans-serif;
@@ -14,7 +14,8 @@ body {
   height: 2px;
   margin: 0 20px;
 }
-/* HEADER */
+
+/* HEADER HEADER HEADER HEADER HEADER */
 
 /* NAV */
 
@@ -53,4 +54,15 @@ nav {
 .jumbotron h3 {
   font-size: 14px;
   font-weight: 300;
+}
+
+/* MAIN MAIN MAIN MAIN MAIN */
+
+/* PORTFOLIO */
+
+
+
+.portfolio img {
+  width: 200px;
+  border-radius: 10px;
 }
