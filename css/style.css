@@ -60,9 +60,13 @@ nav {
 
 /* PORTFOLIO */
 
-
-
 .portfolio img {
   width: 200px;
   border-radius: 10px;
+}
+
+/* ABOUT */
+
+.about {
+  background-color: #1abc9c;  
 }
