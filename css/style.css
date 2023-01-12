@@ -101,3 +101,33 @@ nav {
   padding: 4px 10px;
   border-radius: 5px;
 }
+
+/* FOOTER FOOTER FOOTER FOOTER FOOTER */
+
+/* TOP FOOTER */
+
+.top-footer {
+  background-color: #3a546d;
+}
+
+.top-footer h3 {
+  font-size: 16px;
+}
+
+.top-footer span {
+  font-size: 12px;
+}
+
+.top-footer .span-green {
+  color: #1abc9c;
+}
+
+/* BOTTOM FOOTER */
+
+.bottom-footer {
+  background-color: #2c3e50;
+}
+
+.copyright {
+  font-size: 10px;
+}
