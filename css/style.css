@@ -70,3 +70,34 @@ nav {
 .about {
   background-color: #1abc9c;  
 }
+
+.download-button {
+  background-color: #1abc9c;
+  border: 1px solid white;
+  color: white;
+  padding: 3px 6px;
+  border-radius: 5px;
+
+}
+
+/* CONTACT ME */
+
+.contact .contact-label {
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  padding-bottom: 15px;
+  margin-top: 5px
+}
+
+.contact .message-label {
+  padding-bottom: 70px;
+}
+
+.contact .send-button {
+  color: white;
+  background-color: #1abc9c;
+  border: none;
+  padding: 4px 10px;
+  border-radius: 5px;
+}
